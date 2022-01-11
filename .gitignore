@@ -1,0 +1,11 @@
+*.abi
+*.wasm
+*.orig
+.project
+.cproject
+temp/
+.settings/
+Debug/
+Release/
+include-eosio/
+infeos-test/
